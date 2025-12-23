@@ -1,0 +1,122 @@
+{
+  "movies": [
+    {
+      "id": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "rating": 8.8,
+      "description": "In a bid to get his land back, Shrek agrees to retrieve Princess Fiona for the fairytale-hating Lord Farquaad of Duloc, but falls in love with her on the way.",
+      "link": "https://vidlink.pro/movie/808",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg"
+    },
+    {
+      "id": 1228246,
+      "title": "Five Nights at Freddy's 2",
+      "year": 2025,
+      "rating": 9.3,
+      "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest.",
+      "link": "https://vidlink.pro/movie/1228246",
+      "imageurl": "https://media.themoviedb.org/t/p/w440_and_h660_face/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/rBjsoUKM0FDuAzYkRW3hd6UtHiq.jpg"
+    },
+    {
+      "id": 507089,
+      "title": "Five Nights at Freddy's",
+      "year": 2023,
+      "rating": 9.2,
+      "description": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant.",
+      "link": "https://vidlink.pro/movie/507089",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/7NRGAtu8E4343NSKwhkgmVRDINw.jpg"
+    },
+    {
+      "id": 8871,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "rating": 9.0,
+      "description": "The Grinch decides to rob Whoville of Christmas, but a dash of kindness from little Cindy Lou Who may melt his heart.",
+      "link": "https://vidlink.pro/movie/8871",
+      "imageurl": "https://media.themoviedb.org/t/p/w440_and_h660_face/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg"
+    },
+    {
+      "id": 360920,
+      "title": "The Grinch",
+      "year": 2018,
+      "rating": 9.0,
+      "description": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
+      "link": "https://vidlink.pro/movie/360920",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg"
+    },
+    {
+      "id": 533533,
+      "title": "TRON: Ares",
+      "year": 2025,
+      "rating": 8.9,
+      "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission.",
+      "link": "https://vidlink.pro/movie/533533",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg"
+    },
+    {
+      "id": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "rating": 8.6,
+      "description": "A special bond develops between inflatable robot Baymax and prodigy Hiro Hamada.",
+      "link": "https://vidlink.pro/movie/177572",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "imagebanner": "https://via.placeholder.com/1280x720?text=Big+Hero+6"
+    },
+    {
+      "id": 950387,
+      "title": "A Minecraft Movie",
+      "year": 2025,
+      "rating": 8.9,
+      "description": "Four misfits are pulled into the Overworld and must master it to return home.",
+      "link": "https://vidlink.pro/movie/950387",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg"
+    },
+    {
+      "id": 939243,
+      "title": "Sonic the Hedgehog 3",
+      "year": 2024,
+      "rating": 8.9,
+      "description": "Sonic and Tails are on a new adventure where they must stop a new evil force.",
+      "link": "https://vidlink.pro/movie/939243",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg"
+    },
+    {
+      "id": 675353,
+      "title": "Sonic the Hedgehog 2",
+      "year": 2022,
+      "rating": 8.9,
+      "description": "After settling in Green Hills, Sonic must face Dr. Robotnik once again.",
+      "link": "https://vidlink.pro/movie/675353",
+      "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/xuLA0pii2IMJW2puT7EvJtgpg0H.jpg"
+    }
+  ],
+  "series": [
+    {
+      "id": 1399,
+      "title": "Breaking Bad",
+      "year": 2008,
+      "rating": 9.5,
+      "seasons": 5,
+      "episodes": 62
+    },
+    {
+      "id": 1396,
+      "title": "Game of Thrones",
+      "year": 2011,
+      "rating": 9.2,
+      "seasons": 8,
+      "episodes": 73
+    }
+  ]
+}
