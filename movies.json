@@ -102,14 +102,24 @@
     },
     {
       "id": 454626,
-      "title": "Sonic the Hedgechog",
+      "title": "Sonic the Hedgehog",
       "year": 2020,
       "rating": 6.5,
-      "description": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.
-Jeff Fowler.",
+      "description": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination. Jeff Fowler.",
       "link": "https://vidlink.pro/movie/454626",
       "imageurl": "https://media.themoviedb.org/t/p/w600_and_h900_face/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
       "imagebanner": "https://media.themoviedb.org/t/p/w1066_and_h600_face/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg"
+    },
+
+    {
+      "id": 0,
+      "title": "",
+      "year": 0,
+      "rating": 0,
+      "description": "",
+      "link": "",
+      "imageurl": "",
+      "imagebanner": ""
     },
     {
       "id": 0,
