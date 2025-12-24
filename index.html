@@ -32,6 +32,12 @@
         <div class="content-tabs">
             <button class="tab-btn active" data-tab="movies">Movies</button>
             <button class="tab-btn" data-tab="series">Series</button>
+            <button class="tab-btn" data-tab="favorites">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right:6px;">
+                    <polygon points="12 2 15.09 10.26 24 10.27 17.82 16.15 20.91 24.46 12 18.59 3.09 24.46 6.18 16.15 0 10.27 8.91 10.26 12 2"></polygon>
+                </svg>
+                My List
+            </button>
         </div>
 
         <section class="hero-section" id="heroSection" style="display:none;">
@@ -57,14 +63,39 @@
                     </button>
                 </div>
             </div>
+            <div class="hero-indicators" id="heroIndicators"></div>
         </section>
 
         <section class="movies-section">
             <div class="section-header">
-                <h2 id="sectionTitle">Trending Now</h2>
+                <div class="header-top-row">
+                    <h2 id="sectionTitle">Trending Now</h2>
+                    <div class="filter-controls">
+                        <select id="genreFilter" class="genre-select">
+                            <option value="">All Genres</option>
+                            <option value="Action">Action</option>
+                            <option value="Comedy">Comedy</option>
+                            <option value="Drama">Drama</option>
+                            <option value="Horror">Horror</option>
+                            <option value="Fantasy">Fantasy</option>
+                            <option value="Sci-Fi">Sci-Fi</option>
+                            <option value="Animation">Animation</option>
+                            <option value="Adventure">Adventure</option>
+                        </select>
+                    </div>
+                </div>
             </div>
             <div id="moviesGrid" class="movies-grid">
                 <div class="loading">Loading movies...</div>
+            </div>
+        </section>
+
+        <section id="favoritesSection" class="movies-section" style="display:none;">
+            <div class="section-header">
+                <h2>My Favorites</h2>
+            </div>
+            <div id="favoritesGrid" class="movies-grid">
+                <div class="empty-message">No favorites yet. Add your favorites to see them here!</div>
             </div>
         </section>
     </main>
@@ -94,12 +125,25 @@
                         </span>
                     </div>
                     <p id="modalDescription" class="modal-description"></p>
-                    <button id="watchBtn" class="watch-btn">
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                            <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                        </svg>
-                        Play
-                    </button>
+                    <div id="modalGenre" class="modal-genre"></div>
+                    <div id="episodeSelector" class="episode-selector" style="display:none;">
+                        <h3>Select Episode</h3>
+                        <div id="episodeList" class="episode-list"></div>
+                    </div>
+                    <div class="modal-buttons">
+                        <button id="watchBtn" class="watch-btn">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                            </svg>
+                            Play
+                        </button>
+                        <button id="addToFavBtn" class="fav-btn">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <polygon points="12 2 15.09 10.26 24 10.27 17.82 16.15 20.91 24.46 12 18.59 3.09 24.46 6.18 16.15 0 10.27 8.91 10.26 12 2"></polygon>
+                            </svg>
+                            Add to List
+                        </button>
+                    </div>
                 </div>
             </div>
             <div id="playerContainer" class="player-container" style="display:none;">
